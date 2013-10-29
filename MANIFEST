@@ -1,0 +1,8 @@
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+README.md
+bin/rhttp.pl
+dist.ini
