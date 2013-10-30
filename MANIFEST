@@ -6,3 +6,4 @@ README
 README.md
 bin/rhttp.pl
 dist.ini
+support/create_vhost.sql

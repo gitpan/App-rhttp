@@ -23,11 +23,12 @@ my %WriteMakefileArgs = (
   "NAME" => "App::rhttp",
   "PREREQ_PM" => {
     "AnyEvent" => 0,
+    "DBIx::Connector" => 0,
     "IO::String" => 0,
     "JSON::PP" => 0
   },
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.01",
+  "VERSION" => "0.02",
   "test" => {
     "TESTS" => ""
   }
