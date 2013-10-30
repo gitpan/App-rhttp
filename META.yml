@@ -17,4 +17,5 @@ requires:
   DBIx::Connector: 0
   IO::String: 0
   JSON::PP: 0
-version: 0.02
+  Modern::Perl: 0
+version: 0.03

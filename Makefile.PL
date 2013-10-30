@@ -25,10 +25,11 @@ my %WriteMakefileArgs = (
     "AnyEvent" => 0,
     "DBIx::Connector" => 0,
     "IO::String" => 0,
-    "JSON::PP" => 0
+    "JSON::PP" => 0,
+    "Modern::Perl" => 0
   },
   "TEST_REQUIRES" => {},
-  "VERSION" => "0.02",
+  "VERSION" => "0.03",
   "test" => {
     "TESTS" => ""
   }
